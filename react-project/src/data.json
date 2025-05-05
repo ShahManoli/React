@@ -1,0 +1,85 @@
+{
+    "products": [
+      {
+        "name": "Oupidatat non",
+        "image": "http://localhost:500/assets/img/shop_01.jpg",
+        "price": "250.00",
+        "sizes": ["M", "L", "X", "XL"],
+        "colors": ["red", "blue", "black", "light", "green"],
+        "rating": 3
+      },
+      {
+        "name": "Another Product",
+        "image": "http://localhost:500/assets/img/shop_02.jpg",
+        "price": "300.00",
+        "sizes": ["S", "M", "L"],
+        "colors": ["yellow", "purple", "gray"],
+        "rating": 4
+      },
+      {
+        "name": "Elegant Dress",
+        "image": "http://localhost:500/assets/img/shop_03.jpg",
+        "price": "180.00",
+        "sizes": ["XS", "S", "M"],
+        "colors": ["pink", "white"],
+        "rating": 5
+      },
+      {
+        "name": "Casual Shoes",
+        "image": "http://localhost:500/assets/img/shop_04.jpg",
+        "price": "120.00",
+        "sizes": ["6", "7", "8", "9", "10"],
+        "colors": ["brown", "black"],
+        "rating": 4
+      },
+      {
+        "name": "Sports Watch",
+        "image": "http://localhost:500/assets/img/shop_05.jpg",
+        "price": "220.00",
+        "sizes": ["One Size"],
+        "colors": ["black", "gray"],
+        "rating": 5
+      },
+      {
+        "name": "Denim Jacket",
+        "image": "http://localhost:500/assets/img/shop_06.jpg",
+        "price": "270.00",
+        "sizes": ["M", "L", "XL"],
+        "colors": ["blue", "black"],
+        "rating": 4
+      },
+      {
+        "name": "Leather Wallet",
+        "image": "http://localhost:500/assets/img/shop_07.jpg",
+        "price": "80.00",
+        "sizes": ["One Size"],
+        "colors": ["brown", "black"],
+        "rating": 5
+      },
+      {
+        "name": "Running Sneakers",
+        "image": "http://localhost:500/assets/img/shop_08.jpg",
+        "price": "150.00",
+        "sizes": ["7", "8", "9", "10", "11"],
+        "colors": ["red", "white", "black"],
+        "rating": 4
+      },
+      {
+        "name": "Winter Coat",
+        "image": "http://localhost:500/assets/img/shop_09.jpg",
+        "price": "350.00",
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["gray", "black", "navy"],
+        "rating": 5
+      },
+      {
+        "name": "Coat",
+        "image": "http://localhost:500/assets/img/shop_01.jpg",
+        "price": "350.00",
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["gray", "black", "navy"],
+        "rating": 5
+      }
+    ]
+  }
+  
